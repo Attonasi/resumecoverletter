@@ -1,2 +1,3 @@
-# resumecoverletter
-tired of old versions clogging things up
+# Current copies of my resume and cover letter. 
+
+Tired of old versions clogging things up. I put everything else on github so...
