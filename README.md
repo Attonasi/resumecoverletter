@@ -1,3 +1,4 @@
-# Current copies of my resume and cover letter. 
+# https://github.com/Attonasi?tab=repositories
 
-Tired of old versions clogging things up. I put everything else on github so...
+
+
